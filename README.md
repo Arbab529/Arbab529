@@ -25,8 +25,5 @@
 <img align="left" alt="ExpressJS" width="50px" src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png" />
 <img align="left" alt="MongoDB" width="50px" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png" />
 <img align="left" alt="SQL" width="50px" src="https://thumbs.dreamstime.com/b/sql-database-icon-logo-design-ui-ux-app-orange-inscription-shadow-96841969.jpg" />
-<img align="left" alt="" width="50px" src="" />
-<img align="left" alt="" width="50px" src="" />
-<img align="left" alt="" width="50px" src="" />
-<img align="left" alt="" width="50px" src="" />
+
 
