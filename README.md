@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Muhammad Arbab Anjum, professional Software Engineer.
+### 👋 Professional Software Engineer.
 <hr>
 - 🔭 I’m interested in Fullstack Development.
 <br>
