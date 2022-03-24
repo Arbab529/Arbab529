@@ -21,7 +21,6 @@
 <img align="left" alt="React Query" width="50px" src="https://react-query-v2.tanstack.com/_next/static/images/emblem-light-5d1cdce6c8bbb006ac6cefb8e1642877.svg" />
 <img align="left" alt="NPM" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuyjXKTXjTdKSwfJHcJDxsHZn-T4HD3x7KsA7JQDbuBhUcqi8wJvuyIYQkV-fYYHcKL0o&usqp=CAU" />
 <img align="left" alt="C#" width="50px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />
-<br>
 <img align="left" alt="NodeJS" width="50px" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" />
 <img align="left" alt="ExpressJS" width="50px" src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png" />
 <img align="left" alt="MongoDB" width="50px" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png" />
