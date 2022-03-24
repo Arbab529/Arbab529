@@ -4,7 +4,7 @@
 <br>
 - 🌱 I’m currently learning MERN Stack
 <br>
-- 📫 How to reach me: <a href="arbabanjum0347@gmail.com">arbabanjum0347@gmail.com</a>
+- 📫 How to reach me: <a mailto:"arbabanjum0347@gmail.com">arbabanjum0347@gmail.com</a>
 
 ### Worked On Technologies:
 
