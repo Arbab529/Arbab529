@@ -7,7 +7,6 @@
 
 ### Worked On Technologies:
 <br>
-
 <img align="left" alt="HTML" width="50px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" />
 <img align="left" alt="CSS" width="50px" src="https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png" />
 <img align="left" alt="Bootstrap" width="50px" src="https://raw.githubusercontent.com/themedotid/bootstrap-icon/HEAD/docs/bootstrap-icon-css.png" />
