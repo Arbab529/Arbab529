@@ -1,6 +1,5 @@
-### Hi there 👋
 ### 👋 Hi, I’m Muhammad Arbab Anjum, professional Software Engineer.
-
+<hr>
 - 🔭 I’m interested in Fullstack Development.
 - 🌱 I’m currently learning MERN Stack
 - 📫 How to reach me: arbabanjum0347@gmail.com
@@ -18,7 +17,7 @@
 <img align="left" alt="ReactJS" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
 <img align="left" alt="Redux" width="50px" src="https://cdn.iconscout.com/icon/free/png-256/redux-283024.png" />
 <img align="left" alt="React Query" width="50px" src="https://react-query-v2.tanstack.com/_next/static/images/emblem-light-5d1cdce6c8bbb006ac6cefb8e1642877.svg" />
-<img align="left" alt="NPM" width="50px" src="https://cdn.worldvectorlogo.com/logos/npm.svg" />
+<img align="left" alt="NPM" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuyjXKTXjTdKSwfJHcJDxsHZn-T4HD3x7KsA7JQDbuBhUcqi8wJvuyIYQkV-fYYHcKL0o&usqp=CAU" />
 <img align="left" alt="" width="50px" src="" />
 <img align="left" alt="" width="50px" src="" />
 
