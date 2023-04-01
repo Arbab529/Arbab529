@@ -1,9 +1,9 @@
 
-### 👋 Professional Software Engineer.
+### 👋 Professional Front End Developer.
 <hr>
-- 🔭 I’m interested in Fullstack Development.
+- 🔭 A Passionate developer.
 <br>
-- 🌱 I’m currently learning MERN Stack
+- 🌱 Exploring the tech daily to keep myself upto date.
 <br>
 - 📫 How to reach me: <a href="#">arbabanjum0347@gmail.com</a>
 
