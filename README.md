@@ -9,7 +9,7 @@
 
 <br>
 <br>
-![codewars](https://www.codewars.com/users/arbab_anjum/badges/large)
+<img src="https://www.codewars.com/users/arbab_anjum/badges/large"/>
 <br>
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=arbab529"/>
