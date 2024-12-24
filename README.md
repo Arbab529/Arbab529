@@ -1,5 +1,5 @@
 
-### 👋 Full stack Developer.
+### 👋 Lead Frontend Developer.
 <hr>
 - 🔭 A Passionate developer.
 <br>
