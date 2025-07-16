@@ -1,5 +1,5 @@
 
-### 👋 Lead Frontend Developer.
+### 👋 Software Engineer.
 <hr>
 - 🔭 A Passionate developer.
 <br>
